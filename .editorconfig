@@ -1,0 +1,12 @@
+# http://editorconfig.org
+# Preamble: EditorConfig will help us define and maintain consistent coding styles between different editors and IDEs.
+
+root = true
+
+[*.{js,css,scss}]
+charset = utf-8
+indent_style = tab 
+indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
